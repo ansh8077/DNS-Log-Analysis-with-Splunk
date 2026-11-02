@@ -146,4 +146,4 @@ This produces counts to inspect; choose a threshold only after learning the data
 
 ## License and data attribution
 
-The sample dataset is hosted by [SecRepo](https://www.secrepo.com/maccdc2012/dns.log.gz). Review the data source's terms and attribution requirements before redistributing any downloaded data. This repository contains analysis notes and SPL examples, not the log file itself.
+The sample dataset is hosted by [SecRepo](https://www.secrepo.com/maccdc2012/dns.log.gz). Review the data source's terms and attribution requirements before redistributing any downloaded data. This repository contains analysis notes and SPL examples, not the log file itself.  
